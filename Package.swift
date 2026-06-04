@@ -18,7 +18,7 @@ let package = Package(
             targets: ["StableDiffusionCLI"])
     ],
     dependencies: [
-        .package(url: "https://github.com/apple/swift-argument-parser.git", from: "1.2.3"),
+        .package(url: "https://github.com/apple/swift-argument-parser.git", from: "1.8.2"),
         .package(url: "https://github.com/huggingface/swift-transformers.git", exact: "0.1.8"),
     ],
     targets: [
