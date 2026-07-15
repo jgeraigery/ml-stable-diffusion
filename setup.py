@@ -18,7 +18,7 @@ setup(
         "diffusers[torch]==0.30.2",
         "torch",
         "transformers==4.44.2",
-        "huggingface-hub==0.24.6",
+        "huggingface-hub==0.36.2",
         "scipy",
         "numpy<1.24",
         "pytest",
