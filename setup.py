@@ -26,7 +26,7 @@ setup(
         "invisible-watermark",
         "safetensors",
         "matplotlib",
-        "diffusionkit==0.4.0",
+        "diffusionkit==0.5.2",
     ],
     packages=find_packages(),
     classifiers=[
